@@ -8,10 +8,11 @@
     color: #000;
     line-height: 45px;
     text-align: center;
-    background: #ffce00;
-    float:left;
+    background: #cca605;
+    float: left;
     margin-left: 5px;
 }
+
 .circle2 {
     width: 50px;
     height: 50px;
@@ -23,23 +24,46 @@
     line-height: 45px;
     text-align: center;
     background: #ff0000;
-        float:left;
+    float: left;
     margin-left: 5px;
 }
-.text1{
-    float:left;
+
+.text1 {
+    float: left;
     line-height: 45px;
-    width:200px;
-    text-align: center;
-}
-.text2{
-    float:left;
-    line-height: 45px;
-    width:100px;
+    width: 200px;
     text-align: center;
 }
 
-.img1{
+.text2 {
+    float: left;
+    line-height: 45px;
+    width: 100px;
+    text-align: center;
+}
+
+.img1 {
     float: left;
     margin: 3px 10px 0 10px;
+}
+
+.line1 {
+    border-style: dashed;
+    width: 440px;
+    height: 214px;
+    float: left;
+    border-color: #89887b;
+    background-color: #e4f846;
+    border-width: 3px;
+}
+
+.line2 {
+    border-style: dashed;
+    width: 440px;
+    height: 214px;
+    float: left;
+    margin-left: -3px;
+    border-color: #89887b;
+    background-color: #e4f846;
+    border-width: 3px;
 }
